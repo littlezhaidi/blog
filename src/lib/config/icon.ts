@@ -4,8 +4,8 @@ import { site } from '$lib/config/site'
 
 export const favicon: Icon = {
   sizes: '48x48',
-  //src: `${site.protocol + site.domain}/favicon.png`,
-  src: '/Volumes/TRANSCEND/sdhc/somecoolstuff/blog/static/favicon.png',
+  src: `${site.protocol + site.domain}/favicon.png`,
+  //src: '/Volumes/TRANSCEND/sdhc/somecoolstuff/blog/static/favicon.png',
   type: 'image/png',
 }
 
