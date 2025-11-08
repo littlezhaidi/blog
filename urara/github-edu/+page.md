@@ -1,10 +1,10 @@
 ---
-title: 25/08/05 github education 搬運
+title: 申請github education [圖片炸了]
 created: 2025-08-05
 updated: 2025-08-05
 publish: 2025-11-04
 tags:
-  - 'Test'
+  - 'Github'
 ---
 
 
